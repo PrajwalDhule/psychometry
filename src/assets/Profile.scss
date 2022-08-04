@@ -1,0 +1,12 @@
+.profile-body {
+  position: absolute;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-weight: 500;
+  top: 1.5em;
+  margin-left: 1.5em;
+  svg {
+    height: 5vh;
+  }
+}

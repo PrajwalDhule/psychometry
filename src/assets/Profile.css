@@ -1,0 +1,20 @@
+.profile-body {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: 500;
+  top: 1.5em;
+  margin-left: 1.5em;
+}
+
+.profile-body svg {
+  height: 5vh;
+}
+/*# sourceMappingURL=Profile.css.map */
