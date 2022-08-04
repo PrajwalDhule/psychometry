@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is a website that displays selected user's data in the form of a graph along with the ideal data and the mean data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
