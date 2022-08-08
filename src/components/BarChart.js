@@ -64,7 +64,6 @@ const BarChart = (props) => {
             {
               label: props.person || "Ideal",
               data: datasetArray,
-              // data: [0.5, 0.6, 0.7, 0.8, 0.9],
               borderColor: borderArray2,
               borderWidth: 1.5,
               fill: false,
